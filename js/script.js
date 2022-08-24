@@ -18,3 +18,4 @@ form.addEventListener('submit', e => {
   checkForm(e.target);
   checkForm(e);
 });
+
